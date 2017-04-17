@@ -1,0 +1,19 @@
+{% include base_path %}
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li>{{ site.data.ui-text[site.locale].follow_label }}</li>
+    {% endif %}
+
+      <li><a href="https://twitter.com/saponvmware"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+
+      <li><a href="http://github.com/saponvmware"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+
+      <li><a href="mailto:mail@saponvmware.com"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "EMAIL" }}</a></li>
+
+    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} - SAP on VMware by Vas Mitra &amp; Lars Fiechtner. Hosted on GitHub Pages and running by Jekyll and Minimal Mistakes.</div>

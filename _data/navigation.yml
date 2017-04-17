@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "Posts"
+    url: /year-archive/ 
+
+  - title: "Tags"
+    url: /tags/
+
+  - title: "About"
+    url: /about/
+
+  - title: "Disclaimer"
+    url: /disclaimer
