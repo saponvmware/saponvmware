@@ -11,7 +11,7 @@ Often we receive questions from  customers requiring support from either VMware 
 
 What  if its not clear where the cause of the problem is, VMware or the SAP layer? In this case you could open a ticket with SAP first. SAP will investigate the issue and if they conclude it is not SAP related,  SAP will assign the ticket to another queue in their support system. There are separate queues/components based on the database type (SAP HANA, Sybase, MaxDB, etc), the operation system vendor and the hypervisor vendor like VMware.
 
-As a SAP certified hypervisor vendor VMware has two support components inside of SAP’s support system. The two components are: **BC-OP-NT-ESX** for virtualized SAP on Linux and **BC-OP-LNX-ESX** for virtualized SAP on Windows. Now there is an additional support component monitored by VMware for the SAP Landscape Adapter (VLA) for LVM (Landscape Virtualization Manager) and LaMa (Landscape Manager) BC-VCM-LVM-VMW.
+As a SAP certified hypervisor vendor VMware has two support components inside of SAP’s support system. The two components are: **BC-OP-NT-ESX** for virtualized SAP on Linux and **BC-OP-LNX-ESX** for virtualized SAP on Windows. Now there is an additional support component monitored by VMware for the SAP Landscape Adapter (VLA) for LVM (Landscape Virtualization Manager) and LaMa (Landscape Manager) - BC-VCM-LVM-VMW.
 
 ![BC-OP-$-ESX]({{ site.url }}/images/bc-op-*-esx.jpg)
 
