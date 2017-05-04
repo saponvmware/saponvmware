@@ -10,7 +10,7 @@ tags: [SAP, VMware, SAP HANA]
 As many SAP practitioners know, if you want to run a supported SAP HANA server configuration you will need  a server listed in SAP’ SAP HANA Certified Hardware Directory.
 This directory is available at:
 
-[SAP HANA Hardware Directory](http://global.sap.com/community/ebook/2014-09-02-hana-hardware/enen/appliances.html)
+[SAP HANA Hardware Directory](https://www.sap.com/dmc/exp/2014-09-02-hana-hardware/enEN/appliances.html)
 
 ![SAP HANA Hardware Directory]({{ site.url }}/images/sap-hana-hardware-directory.jpg)
 
