@@ -34,7 +34,7 @@ In the past there has been limitations on  the CPU Type (like Haswell, Broadwell
 
 **Check additional features like hardware partitioning**:  
 Some server has additional features like hardware partitioning (e.g. Fujitsu, Hitachi) for these additional features please check the SAP Marketplace Knowledge Base.  
-[SAP Notes & KBs at sap.com](https://launchpad.support.sap.com/#/solutions/notes/?q=) (SAP user required)
+[SAP Notes at sap.com](https://launchpad.support.sap.com/#/solutions/notes/?q=) (SAP user required)
 
 In addition to the above checks as always work with your preferred server vendor, SAP and VMware.
 
