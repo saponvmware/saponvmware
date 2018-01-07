@@ -11,7 +11,7 @@ title                    : "SAP On VMware"
 title_separator          : "-"
 name                     : "Lars Fiechtner"
 description              : "SAP on VMware"
-url                      : "http://saponvmw.com"
+url                      : "http://saponvmware.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : "cat_tty.png"
