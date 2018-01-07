@@ -9,7 +9,7 @@
 locale                   : "en-UK"
 title                    : "SAP On VMware"
 title_separator          : "-"
-name                     : "Vas Mitra & Lars Fiechtner"
+name                     : "Lars Fiechtner"
 description              : "SAP on VMware"
 url                      : "http://saponvmw.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -86,7 +86,7 @@ google_ad_slot           :
 # Site Author
 author:
   name             : "Vas Mitra"
-  avatar           : "vaslars.jpg"
+  avatar           : "lars.jpg"
   bio              : "Staff Solution Architect"
   location         : "Palo Alto, USA"
   email            :
