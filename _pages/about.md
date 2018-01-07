@@ -2,6 +2,7 @@
 title: About
 permalink: /about/
 ---
+
 ### Lars Fiechtner
 
 Lars Fiechtner is a Staff Technical Account Manager and has been working at VMware since 2011. In his current role at Professional Services Organisation (PSO), Lars serving Global customers as a strategic trusted advisor to achieve the goals of the IT transformation with VMware’s Software Defined Datacenter (SDDC) strategy. Lars is also an SME for SAP on VMware for the VMware community like Pre- and Post-Sales.
