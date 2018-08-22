@@ -88,8 +88,13 @@ author:
   name             : "Lars Fiechtner"
   avatar           : "lars.jpg"
   bio              : "Staff Technical Account Manager @ VMware Global Inc. "
+<<<<<<< HEAD
   location         : "Stuttgart, Germany"
   email            : "mail@saponware.com"
+=======
+  location         : "Germany"
+  email            : "mail@saponvmware.com"
+>>>>>>> origin/master
   uri              :
   bitbucket        :
   codepen          :
