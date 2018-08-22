@@ -87,14 +87,9 @@ google_ad_slot           :
 author:
   name             : "Lars Fiechtner"
   avatar           : "lars.jpg"
-  bio              : "Staff Technical Account Manager @ VMware Global Inc. "
-<<<<<<< HEAD
+  bio              : "Staff Technical Account Manager @ VMware Global Inc."
   location         : "Stuttgart, Germany"
   email            : "mail@saponware.com"
-=======
-  location         : "Germany"
-  email            : "mail@saponvmware.com"
->>>>>>> origin/master
   uri              :
   bitbucket        :
   codepen          :
