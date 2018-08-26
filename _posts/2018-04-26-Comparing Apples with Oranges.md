@@ -7,10 +7,6 @@ category:
 tags: [SAP, VMware, Performance, vSphere]
 ---
 
-![Apples vs Oranges]({{ site.url }}/images/appleorange.jpg)
-
-*Disclaimer: Picture by pixabay.com*
-
 **Physical vs Virtual testing guidelines**
 Very often we are having discussions about the comparison of physical vs virtual installation of SAP systems. These discussions are mostly driven by the goal of comparing apples with apples but if you have a more detailed look into the details you will figure out that the discussions end up actually comparing apples with oranges. The goal of this blog article is to give you another view on this topic.
 
@@ -34,6 +30,9 @@ Comparing apple with apples ensure that in the virtual environment there is no n
 
 **Distributed vs Central Installation**
 We saw that customers are benchmarking distributed installation vs central installations, which has an impact on the latency. With a distributed installation, you install the database, central services and application server(s) on different operating systems. With a central installation you’re running all components on the same operating system. On a central installation the communication between the application server and database server has a lower latency. Keep in mind, that with a lower latency between database and central services & application server you will benefit.
+
+![Apples vs Oranges]({{ site.url }}/images/appleorange.jpg)
+*Disclaimer: Picture by pixabay.com*
 
 **Conclusion**
 If you are in the situation where you need to compare a physical to virtual installation, always try and compare apples with apples in all cases if possible. After you get your results, validate the results by confirming that the virtualization overhead is valid. In case the numbers are unrealistic review all components to make sure you are not comparing apples with oranges.
