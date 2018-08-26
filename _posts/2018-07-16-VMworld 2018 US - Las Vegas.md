@@ -1,5 +1,5 @@
 ---
-title: VMworld 2018 – Las Vegas
+title: VMworld 2018 US – Las Vegas
 excerpt: "SAP on VMware @ VMworld 2018"
 header:
   teaser: ""
