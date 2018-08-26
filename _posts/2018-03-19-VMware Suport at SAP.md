@@ -14,6 +14,7 @@ What  if its not clear where the cause of the problem is, VMware or the SAP laye
 As a SAP certified hypervisor vendor VMware has two support components inside of SAP’s support system. The two components are: **BC-OP-NT-ESX** for virtualized SAP on Linux and **BC-OP-LNX-ESX** for virtualized SAP on Windows. Now there is an additional support component monitored by VMware for the SAP Landscape Adapter (VLA) for LVM (Landscape Virtualization Manager) and LaMa (Landscape Manager) - BC-VCM-LVM-VMW.
 
 ![BC-OP-$-ESX]({{ site.url }}/images/bc-op-*-esx.jpg)
+*Disclaimer: Picture by sap.com*
 
 VMware has support engineers in their Global Support & Service (GSS) organization  who have both VMware and SAP expertise that have access to SAP’s support system who also monitor the support requests created in the SAP support system and can pro-actively take the ownership of support tickets if applicable to VMware.
 
