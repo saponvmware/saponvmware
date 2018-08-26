@@ -8,6 +8,9 @@ tags: [SAP, VMware, Performance, vSphere]
 ---
 
 ![Apples vs Oranges]({{ site.url }}/images/appleorange.jpg)
+*Disclaimer: Picture by sap.com*
+
+![Apples vs Oranges]({{ site.url }}/images/appleorange.jpg)
 
 *Disclaimer: Picture by pixabay.com*
 
