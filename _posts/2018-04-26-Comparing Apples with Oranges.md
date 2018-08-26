@@ -10,9 +10,6 @@ tags: [SAP, VMware, Performance, vSphere]
 ![Apples vs Oranges]({{ site.url }}/images/appleorange.jpg)
 *Disclaimer: Picture by sap.com*
 
-![Apples vs Oranges]({{ site.url }}/images/appleorange.jpg)
-*Disclaimer: Picture by pixabay.com*
-
 **Physical vs Virtual testing guidelines**
 Very often we are having discussions about the comparison of physical vs virtual installation of SAP systems. These discussions are mostly driven by the goal of comparing apples with apples but if you have a more detailed look into the details you will figure out that the discussions end up actually comparing apples with oranges. The goal of this blog article is to give you another view on this topic.
 
