@@ -39,6 +39,7 @@ List of the most important SAP Notes for the virtualization of SAP on VMware.
 * SAP Note 1492000 - General Support Statement for Virtual Environments
 * SAP Note 1122387 - Linux: SAP Support in virtualized environments
 * SAP Note 1409608 - Virtualization on Windows
-(SAP user required)
+
+SAP user is required to for the SAP Notes.
 
 *Tags: SAP, VMware, vSphere, SAP Classic, Best Practice*
