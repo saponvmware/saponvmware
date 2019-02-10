@@ -26,7 +26,7 @@ There are some myths in the field about the virtualization of SAP HANA on VMware
 * [VMware Announces Support from SAP of VMware ESX Server for Production Environments](https://ir.vmware.com/overview/press-releases/press-release-details/2007/VMware-Announces-Support-from-SAP-of-VMware-ESX-Server-for-Production-Environments/default.aspx)
 
 **Myth**: The virtualization overhead degrades the performance severely.  
-**Truth**: There is a performance overhead by the hypervisor. But, in the past “physical to virtual” benchmarks showed an overhead of less than 10% compared to bare metal servers. More details of a “BWL-EML” benchmarks are documented (Page 6) by HPE with a delta of 5%.  
+**Truth**: There is a performance overhead by the hypervisor. But, in the past “physical to virtual” benchmarks showed an overhead of less than 10% compared to bare metal servers. More details of a “BWL-EML” benchmarks are documented (Page 6) by HPE with a delta of 5%.
 * [Virtualized SAP HANA performance evolution with the HPE ConvergedSystem 500 and VMware vSphere 6.0](https://h20195.www2.hpe.com/v2/getdocument.aspx?docname=4aa6-6194enw)
 
 **Myth**: The SAP HANA data is not accurately and/or properly stored on a virtual environment and could be causing functional errors.  
