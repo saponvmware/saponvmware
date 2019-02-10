@@ -29,8 +29,7 @@ SAP HANA can handle both application types, but not in one installation. Therefo
 
 With SAP HANA the topic is “moving the logic to the database level” or named as “code push down”. The most business logic continues to be driven out of ABAP, as the business processes are still mapped in ABAP as programming language. Therefore, ABAP programmers are still needed but maybe with additional qualifications.  
 
-![Questions Marks]({{ site.url }}/images/questionmarks.jpg)
-
+![Questions Marks]({{ site.url }}/images/questionmarks.jpg)  
 *Disclaimer: Picture by pixabay.com*
 
 * SAP HANA uses SQL queries like any other databases
