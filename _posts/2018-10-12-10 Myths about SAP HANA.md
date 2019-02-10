@@ -49,6 +49,6 @@ This statement is correct so far. When changing a data record the original data 
 
 SAP HANA offers the opportunity to use an own authorization concept, it depends on the system of use. If SAP applications are used the authorization check is performed by the application server like the ABAP Stack and therefore an own SAP HANA authentication concept is not relevant. But if users retrieve data directly from SAP HANA database the access must be regulated. If SAP HANA is only used as the database for SAP applications and the native function is not in use the authorization function effort is very limited.
 
-*Disclaimer: Initial idea (in German) by addon.de*
+*Disclaimer: Initial idea - in German - by addon.de*
 
 *Tags: SAP, SAP HANA*
