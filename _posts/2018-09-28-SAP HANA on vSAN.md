@@ -17,7 +17,7 @@ This means, you get no support by SAP or even VMware if you are running SAP HANA
 
 For more details about SAP HANA and vSAN, please see the relevant SAP Note [2718982](https://launchpad.support.sap.com/#/notes/2718982) - SAP HANA on VMware vSphere and vSAN). (SAP user required)
 
-Visit also the Storage Hub by VMware about SAP HANA on Hyperconverged Infrastructure (HCI) Solutions Powered by VMware vSAN: [Link](https://storagehub.vmware.com/t/vmware-vsan/sap-hana-on-hyperconverged-infrastructure-hci-solutions-powered-by-vmware-vsan-tm/)
+Visit also the [Storage Hub](https://storagehub.vmware.com/t/vmware-vsan/sap-hana-on-hyperconverged-infrastructure-hci-solutions-powered-by-vmware-vsan-tm/) by VMware about SAP HANA on Hyperconverged Infrastructure (HCI) Solutions Powered by VMware vSAN.
 
 ![DellEMC VxRail]({{ site.url }}/images/dellemc_vxrail.jpg)
 *Disclaimer: Picture by sap.com*
