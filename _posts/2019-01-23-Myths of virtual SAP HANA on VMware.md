@@ -13,11 +13,11 @@ There are some myths in the field about the virtualization of SAP HANA on VMware
 *Disclaimer: Picture by pixabay.com*
 
 **Myth**: Limited memory size of SAP HANA on vSphere, the largest implementation is 1 TB of virtual memory.  
-**Truth**: The supported limitation of virtual machine memory size is 6 TB on OLTP workload and 3TB on OLAP workload – both on Intel Skylake CPUs. “The maximum size for Skylake of a virtual SAP HANA instance is limited CPU-wise by the maximum size of a virtual machine on VMware vSphere 6.5 and 6.7 release, which is 128 vCPUs on 4 Sockets (4 sockets on up to 8 socket hardware), and 6TB of RAM. Due to the underlying certified hardware OLAP can only use with maximum 3TB, the actual usable RAM is a matter of SAP Sizing.”
+**Truth**: The supported limitation of virtual machine memory size is 6 TB on OLTP workload and 3TB on OLAP workload – both on Intel Skylake CPUs. “The maximum size for Skylake of a virtual SAP HANA instance is limited CPU-wise by the maximum size of a virtual machine on VMware vSphere 6.5 and 6.7 release, which is 128 vCPUs on 4 Sockets (4 sockets on up to 8 socket hardware), and 6TB of RAM. Due to the underlying certified hardware OLAP can only use with maximum 3TB, the actual usable RAM is a matter of SAP Sizing.”  
 SAP Note [2393917](https://launchpad.support.sap.com/#/notes/239317) - SAP HANA on VMware vSphere 6.5 and 6.7 in production
 
 **Myth**: Other applications are not supported on the same hosts besides SAP HANA virtual machines.  
-**Truth**: Co-deployments besides SAP HANA virtual machines in production is supported independent of SAP HANA or Non-SAP HANA virtual machines on the same vSphere host. “SAP HANA VMs can get co-deployed with SAP non-production HANA or any other workload VMs, as long as the production SAP HANA VMs are not negatively impacted by the co-deployed VMs. …”
+**Truth**: Co-deployments besides SAP HANA virtual machines in production is supported independent of SAP HANA or Non-SAP HANA virtual machines on the same vSphere host. “SAP HANA VMs can get co-deployed with SAP non-production HANA or any other workload VMs, as long as the production SAP HANA VMs are not negatively impacted by the co-deployed VMs. …”  
 SAP Note [2393917](https://launchpad.support.sap.com/#/notes/239317) - SAP HANA on VMware vSphere 6.5 and 6.7 in production.
 
 **Myth**: On technical or engineering related challenges with virtualized SAP HANA you’re on your own.  
