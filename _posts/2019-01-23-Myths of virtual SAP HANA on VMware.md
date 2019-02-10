@@ -43,7 +43,7 @@ There are some myths in the field about the virtualization of SAP HANA on VMware
 **Truth**: SAP and VMware invested considerable resources to create best practices for SAP HANA workload on VMware vSphere to reduce the complexity and to archive the optimal support results.
 
 **Myth**: VMware can’t be scaled-out for SAP HANA workload on vSphere hypervisors.  
-**Truth**: SAP HANA Scale-out is officially and fully supported by SAP and VMware since SAP HANA 1.0 SPS 09. With this support it is possible to scale-out SAP HANA until 16 nodes and up to 64 TB of memory for BW on HANA workload.
+**Truth**: SAP HANA Scale-out is officially and fully supported by SAP and VMware since SAP HANA 1.0 SPS 09. With this support it is possible to scale-out SAP HANA until 16 nodes and up to 64 TB of memory for BW on HANA workload.  
 * SAP Note [2393917](https://launchpad.support.sap.com/#/notes/2393917) - SAP HANA on VMware vSphere 6.5 and 6.7 in production
 
 **Myth**: Virtualizing of SAP HANA requires a fundamental change in the operation and additional resources needed.  
