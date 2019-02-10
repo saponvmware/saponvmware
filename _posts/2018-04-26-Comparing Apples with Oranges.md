@@ -1,6 +1,6 @@
 ---
 title: Comparing Apples with Oranges
-excerpt: "Is comparing physical to virtual valid"
+excerpt: "Is comparing physical to virtual valid?"
 header:
   teaser: ""
 category:
