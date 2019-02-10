@@ -20,6 +20,7 @@ For more details about SAP HANA and vSAN, please see the relevant SAP Note [2718
 Visit also the [Storage Hub](https://storagehub.vmware.com/t/vmware-vsan/sap-hana-on-hyperconverged-infrastructure-hci-solutions-powered-by-vmware-vsan-tm/) by VMware about SAP HANA on Hyperconverged Infrastructure (HCI) Solutions Powered by VMware vSAN.
 
 ![DellEMC VxRail]({{ site.url }}/images/dellemc_vxrail.jpg)
+
 *Disclaimer: Picture by sap.com*
 
 *Tags: SAP, SAP HANA, VMware, vSAN, HCI*
