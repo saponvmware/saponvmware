@@ -22,11 +22,11 @@ SAP Note [2393917](https://launchpad.support.sap.com/#/notes/239317) - SAP HANA 
 
 **Myth**: On technical or engineering related challenges with virtualized SAP HANA you’re on your own.  
 **Truth**: Both, SAP and VMware have a long strategic partnership and together both companies are providing a joined support for virtualized SAP HANA on VMware.
-“SAP and VMware will assist joint customers in collaborative support services and problem resolution, backed by a global technology partnership agreement and dedicated support staffing.”
+“SAP and VMware will assist joint customers in collaborative support services and problem resolution, backed by a global technology partnership agreement and dedicated support staffing.”  
 [VMware Announces Support from SAP of VMware ESX Server for Production Environments](https://ir.vmware.com/overview/press-releases/press-release-details/2007/VMware-Announces-Support-from-SAP-of-VMware-ESX-Server-for-Production-Environments/default.aspx)
 
 **Myth**: The virtualization overhead degrades the performance severely.  
-**Truth**: There is a performance overhead by the hypervisor. But, in the past “physical to virtual” benchmarks showed an overhead of less than 10% compared to bare metal servers. More details of a “BWL-EML” benchmarks are documented (Page 6) by HPE with a delta of 5%.
+**Truth**: There is a performance overhead by the hypervisor. But, in the past “physical to virtual” benchmarks showed an overhead of less than 10% compared to bare metal servers. More details of a “BWL-EML” benchmarks are documented (Page 6) by HPE with a delta of 5%.  
 [Virtualized SAP HANA performance evolution with the HPE ConvergedSystem 500 and VMware vSphere 6.0](https://h20195.www2.hpe.com/v2/getdocument.aspx?docname=4aa6-6194enw)
 
 **Myth**: The SAP HANA data is not accurately and/or properly stored on a virtual environment and could be causing functional errors.  
@@ -36,7 +36,7 @@ SAP Note [2393917](https://launchpad.support.sap.com/#/notes/239317) - SAP HANA 
 **Truth**: Disaster a Recovery is supported by different technologies and products. In the case of VMware products and technologies VMware vCenter Site Recovery Manager (SRM) is supported for SAP HANA workload on VMware vSphere.
 
 **Myth**: VMware’s technology vSphere vMotion for the live migration is incompatible with SAP HANA workload.  
-**Truth**: VMware vSphere vMotion can be used successfully to migrated running virtual machines in a SAP HANA environment when the best practices are followed.
+**Truth**: VMware vSphere vMotion can be used successfully to migrated running virtual machines in a SAP HANA environment when the best practices are followed.  
 [Architecture Guidelines and Best Practices for Deployments of SAP HANA on VMware vSphere Guide](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/whitepaper/sap_hana_on_vmware_vsphere_best_practices_guide-white-paper.pdf)
 
 **Myth**: Customers can ignore the recommendations of the SAP HANA on VMware best practices guide.  
