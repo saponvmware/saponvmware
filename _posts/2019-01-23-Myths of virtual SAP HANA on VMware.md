@@ -9,8 +9,7 @@ tags: [SAP, SAP HANA, VMware]
 
 There are some myths in the field about the virtualization of SAP HANA on VMware. This blog article shows the most named myths and their truths.
 
-![Any Questions]({{ site.url }}/images/anyquestions.jpg)
-
+![Any Questions]({{ site.url }}/images/anyquestions.jpg)  
 *Disclaimer: Picture by pixabay.com*
 
 **Myth**: Limited memory size of SAP HANA on vSphere, the largest implementation is 1 TB of virtual memory.
