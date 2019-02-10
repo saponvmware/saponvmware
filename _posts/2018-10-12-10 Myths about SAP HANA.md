@@ -11,7 +11,7 @@ There are a lot of discussions about virtualizing SAP HANA. There are also preju
 
 * 1 SAP HANA is a purely column-oriented database (Column Store)
 
-No, in most cases SAP HANA stores the tables mainly column-based - in a Business Suite scenario over 95% of the tables - but SAP HANA also provides row-based tables for special use cases. The table type is specified in the ABAP Dictionary (Transaction Code SE11) for all SAP tables. The [SAP Note 2222277](https://launchpad.support.sap.com/#/notes/2222277) is showing the advantages and disadvantages of row vs column stores.
+No, in most cases SAP HANA stores the tables mainly column-based - in a Business Suite scenario over 95% of the tables - but SAP HANA also provides row-based tables for special use cases. The table type is specified in the ABAP Dictionary (Transaction Code SE11) for all SAP tables. The SAP Note [2222277](https://launchpad.support.sap.com/#/notes/2222277) is showing the advantages and disadvantages of row vs column stores.
 
 * 2 SAP HANA database stores all data in the memory
 
@@ -49,7 +49,6 @@ This statement is correct so far. When changing a data record the original data 
 
 SAP HANA offers the opportunity to use an own authorization concept, it depends on the system of use. If SAP applications are used the authorization check is performed by the application server like the ABAP Stack and therefore an own SAP HANA authentication concept is not relevant. But if users retrieve data directly from SAP HANA database the access must be regulated. If SAP HANA is only used as the database for SAP applications and the native function is not in use the authorization function effort is very limited.
 
-![DellEMC VxRail]({{ site.url }}/images/dellemc_vxrail.jpg)
-*Disclaimer: Picture by sap.com*
+*Disclaimer: Initial idea (in German) by addon.de*
 
 *Tags: SAP, SAP HANA*
