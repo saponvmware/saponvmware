@@ -9,7 +9,7 @@ tags: [SAP, SAP HANA]
 
 There are a lot of discussions about virtualizing SAP HANA. There are also prejudices in the field of SAP HANA and this blog wants to give you some clarifications.
 
-* SAP HANA is a purely column-oriented database (Column Store)**
+* SAP HANA is a purely column-oriented database (Column Store)
 
 No, in most cases SAP HANA stores the tables mainly column-based - in a Business Suite scenario over 95% of the tables - but SAP HANA also provides row-based tables for special use cases. The table type is specified in the ABAP Dictionary (Transaction Code SE11) for all SAP tables. The SAP Note [2222277](https://launchpad.support.sap.com/#/notes/2222277) is showing the advantages and disadvantages of row vs column stores.
 
