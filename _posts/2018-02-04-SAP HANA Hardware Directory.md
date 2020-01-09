@@ -27,14 +27,18 @@ SAP HANA has different deployment regarding scale-up vs scale-out plus the appli
 
 **Check that the sever is on VMware’s HCL**:    
 Not all servers at SAP’s Certified Hardware Directory are certified and supported on vSphere. In this case verify that your selected server is on the HCL of VMware.
+
 [VMware Compatibility Guide at vmware.com](https://www.vmware.com/resources/compatibility/search.php)
 
 **Check if CPU type & CPU count is supported by SAP HANA on VMware**:  
-There are lmitations on the CPU Type (like Haswell, Broadwell) and CPU count (2-, 4-, 6- and 8-way servers). 
+There are lmitations on the CPU Type (like Haswell, Broadwell) and CPU count (2-, 4-, 6- and 8-way servers).
+
 [SAP HANA on VMware vSphere at scn.sap.com](https://wiki.scn.sap.com/wiki/display/VIRTUALIZATION/SAP+HANA+on+VMware+vSphere)
 
 **Check additional features like hardware partitioning**:  
-Some server has additional features like hardware partitioning (e.g. Fujitsu, Hitachi) for these additional features please check the SAP Marketplace Knowledge Base. [SAP Notes at sap.com](https://launchpad.support.sap.com/#/solutions/notes/?q=) (SAP user required)
+Some server has additional features like hardware partitioning (e.g. Fujitsu, Hitachi) for these additional features please check the SAP Marketplace Knowledge Base.
+
+[SAP Notes at sap.com](https://launchpad.support.sap.com/#/solutions/notes/?q=) (SAP user required)
 
 In addition to the above checks as always work with your preferred server vendor, SAP and VMware.
 
