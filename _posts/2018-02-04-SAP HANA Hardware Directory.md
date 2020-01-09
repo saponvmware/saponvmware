@@ -15,7 +15,7 @@ This directory is available at:
 ![SAP HANA Hardware Directory]({{ site.url }}/images/sap-hana-hardware-directory.jpg)
 *Disclaimer: Picture by sap.com*
 
-If you want to virtualize your SAP HANA system, you should verify that the server is also listed at VMware HCL. Not all servers at SAP’s hardware directory is on VMware’s HCL. Additionally, not all server CPU (Haswell, Broadcom) and not all server CPU counts  (4-way vs 8-way) are certified by SAP for SAP HANA virtualization with VMware vSphere.
+If you want to virtualize your SAP HANA system, you should verify that the server is also listed at VMware HCL. Not all servers at SAP’s hardware directory is on VMware’s HCL. Additionally, not all server CPU (Haswell, Broadwell) and not all server CPU counts  (4-way vs 8-way) are certified by SAP for SAP HANA virtualization with VMware vSphere.
 
 Here is a quick list to help you select a server for virtual SAP HANA that is supported by SAP and VMware.
 
@@ -26,11 +26,11 @@ Verify your preferred server is listed at SAP’ Hardware Server Directory, not 
 SAP HANA has different deployment regarding scale-up vs scale-out plus the application type like Business Suite on HANA (BSoH), Business Warehouse on HANA (BWoH), Datamart (DM) and S/4 HANA.
 
 **Check that the sever is on VMware’s HCL**:    
-Keep in mind that not all servers at SAP’s Certified Hardware Directory are certified and supported on vSphere. In this case verify that your selected server is on the HCL of VMware.  
+Not all servers at SAP’s Certified Hardware Directory are certified and supported on vSphere. In this case verify that your selected server is on the HCL of VMware.  
 [VMware Compatibility Guide at vmware.com](https://www.vmware.com/resources/compatibility/search.php)
 
 **Check if CPU type & CPU count is supported by SAP HANA on VMware**:  
-In the past there has been limitations on  the CPU Type (like Haswell, Broadwell) and CPU count (2-, 4-, 6- and 8-way servers).
+There are lmitations on the CPU Type (like Haswell, Broadwell) and CPU count (2-, 4-, 6- and 8-way servers).
 [SAP HANA on VMware vSphere at scn.sap.com](https://wiki.scn.sap.com/wiki/display/VIRTUALIZATION/SAP+HANA+on+VMware+vSphere)
 
 **Check additional features like hardware partitioning**:  
