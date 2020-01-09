@@ -7,7 +7,7 @@ category:
 tags: [SAP, VMware, SAP HANA]
 ---
 
-As many SAP practitioners know, if you want to run a supported SAP HANA server configuration you will need  a server listed in SAP’ SAP HANA Certified Hardware Directory.
+As many SAP practitioners know, if you want to run a supported SAP HANA server configuration you will need  a server listed in SAP HANA Certified Hardware Directory.
 This directory is available at:
 
 [SAP HANA Hardware Directory](https://www.sap.com/dmc/exp/2014-09-02-hana-hardware/enEN/appliances.html)
@@ -15,7 +15,7 @@ This directory is available at:
 ![SAP HANA Hardware Directory]({{ site.url }}/images/sap-hana-hardware-directory.jpg)
 *Disclaimer: Picture by sap.com*
 
-If you want to virtualize your SAP HANA system, you should verify that the server is also listed at VMware HCL. Not all servers at SAP’s hardware directory is on VMware’s HCL. Additionally, not all server CPU (Haswell, Broadcom) and not all server CPU counts  (4-way vs 8-way) are certified by SAP for SAP HANA virtualization with VMware vSphere.
+If you want to virtualize your SAP HANA system, you should verify that the server is also listed at VMware HCL. Not all servers at SAP’s hardware directory is on VMware’s HCL. Additionally, not all server CPU (Haswell, Broadwell) and not all server CPU counts (4-way vs 8-way) are certified by SAP for SAP HANA virtualization with VMware vSphere.
 
 Here is a quick list to help you select a server for virtual SAP HANA that is supported by SAP and VMware.
 
