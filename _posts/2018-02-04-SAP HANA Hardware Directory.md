@@ -19,14 +19,14 @@ If you want to virtualize your SAP HANA system, you should verify that the serve
 
 Here is a quick list to help you select a server for virtual SAP HANA that is supported by SAP and VMware.
 
-**Check if your server is listed on SAP’ Hardware Directory**:  
+**Check if your server is listed on SAP’s Hardware Directory**:  
 Verify your preferred server is listed at SAP’ Hardware Server Directory, not all servers are certified by SAP for productive SAP HANA workloads.
 
 **Check the deployment type for the preferred server**:  
 SAP HANA has different deployment regarding scale-up vs scale-out plus the application type like Business Suite on HANA (BSoH), Business Warehouse on HANA (BWoH), Datamart (DM) and S/4 HANA.
 
 **Check that the sever is on VMware’s HCL**:    
-Keep in mind that not all servers at SAP’s Certified Hardware Directory are certified and supported on vSphere. In this case verify that your selected server is on the HCL of VMware.  
+Not all servers at SAP’s Certified Hardware Directory are certified and supported on vSphere. In this case verify that your selected server is on the HCL of VMware.  
 [VMware Compatibility Guide at vmware.com](https://www.vmware.com/resources/compatibility/search.php)
 
 **Check if CPU type & CPU count is supported by SAP HANA on VMware**:  
