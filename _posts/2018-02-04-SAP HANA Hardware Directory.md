@@ -31,7 +31,7 @@ Not all servers at SAP’s Certified Hardware Directory are certified and suppor
 [VMware Compatibility Guide at vmware.com](https://www.vmware.com/resources/compatibility/search.php)
 
 **Check if CPU type & CPU count is supported by SAP HANA on VMware**:  
-There are lmitations on the CPU Type (like Haswell, Broadwell) and CPU count (2, 4, 6 or 8-way servers).
+There are limitations on the CPU Type (like Haswell, Broadwell) and CPU count (2, 4, 6 or 8-way servers).
 
 [SAP HANA on VMware vSphere at scn.sap.com](https://wiki.scn.sap.com/wiki/display/VIRTUALIZATION/SAP+HANA+on+VMware+vSphere)
 
