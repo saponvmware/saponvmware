@@ -26,11 +26,11 @@ Verify your preferred server is listed at SAP’ Hardware Server Directory, not 
 SAP HANA has different deployment regarding scale-up vs scale-out plus the application type like Business Suite on HANA (BSoH), Business Warehouse on HANA (BWoH), Datamart (DM) and S/4 HANA.
 
 **Check that the sever is on VMware’s HCL**:    
-Not all servers at SAP’s Certified Hardware Directory are certified and supported on vSphere. In this case verify that your selected server is on the HCL of VMware.  
+Not all servers at SAP’s Certified Hardware Directory are certified and supported on vSphere. In this case verify that your selected server is on the HCL of VMware.
 [VMware Compatibility Guide at vmware.com](https://www.vmware.com/resources/compatibility/search.php)
 
 **Check if CPU type & CPU count is supported by SAP HANA on VMware**:  
-There are lmitations on the CPU Type (like Haswell, Broadwell) and CPU count (2-, 4-, 6- and 8-way servers).
+There are lmitations on the CPU Type (like Haswell, Broadwell) and CPU count (2-, 4-, 6- and 8-way servers). 
 [SAP HANA on VMware vSphere at scn.sap.com](https://wiki.scn.sap.com/wiki/display/VIRTUALIZATION/SAP+HANA+on+VMware+vSphere)
 
 **Check additional features like hardware partitioning**:  
