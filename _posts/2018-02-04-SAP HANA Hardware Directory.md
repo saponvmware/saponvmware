@@ -34,8 +34,7 @@ There are lmitations on the CPU Type (like Haswell, Broadwell) and CPU count (2-
 [SAP HANA on VMware vSphere at scn.sap.com](https://wiki.scn.sap.com/wiki/display/VIRTUALIZATION/SAP+HANA+on+VMware+vSphere)
 
 **Check additional features like hardware partitioning**:  
-Some server has additional features like hardware partitioning (e.g. Fujitsu, Hitachi) for these additional features please check the SAP Marketplace Knowledge Base.  
-[SAP Notes at sap.com](https://launchpad.support.sap.com/#/solutions/notes/?q=) (SAP user required)
+Some server has additional features like hardware partitioning (e.g. Fujitsu, Hitachi) for these additional features please check the SAP Marketplace Knowledge Base. [SAP Notes at sap.com](https://launchpad.support.sap.com/#/solutions/notes/?q=) (SAP user required)
 
 In addition to the above checks as always work with your preferred server vendor, SAP and VMware.
 
