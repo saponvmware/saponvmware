@@ -7,7 +7,7 @@ category:
 tags: [SAP, SAP HANA, VMware, SAP Classic, VMworld]
 ---
 
-As I am honoured, proud and grateful to be allowed to run a Breakout Session at this year’s VMworld in Las Vegas, I want to share some more details of the session and list all VMworld sessions with an SAP focus.
+As I am honored, proud and grateful to be allowed to run a Breakout Session at this year’s VMworld in Las Vegas, I want to share some more details of the session and list all VMworld sessions with an SAP focus.
 
 The session The Top Configuration Concept Issues in an SAP HANA on vSphere Environment will be run by my fellow colleague and me.
 

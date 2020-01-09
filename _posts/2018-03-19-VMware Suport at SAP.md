@@ -1,17 +1,17 @@
 ---
 title: VMware Support at SAP
-excerpt: "Discription of the SAP VMware Alliance Support"
+excerpt: "Description of the SAP VMware Alliance Support"
 header:
   teaser: ""
 category:
 tags: [SAP, VMware, Support]
 ---
 
-Often we receive questions from  customers requiring support from either VMware and/or SAP to resolve performance or functional issues. If you know the issue is caused by a VMware product or feature open a ticket with  the VMware Global Support and Services (GSS) organization and if the issue is related to a SAP product open a ticket with the SAP Support organization.
+Often, I receive questions from  customers requiring support from either VMware and/or SAP to resolve performance or functional issues. If you know the issue is caused by a VMware product or feature open a ticket with  the VMware Global Support and Services (GSS) organization and if the issue is related to a SAP product open a ticket with the SAP Support organization.
 
-What  if its not clear where the cause of the problem is, VMware or the SAP layer? In this case you could open a ticket with SAP first. SAP will investigate the issue and if they conclude it is not SAP related,  SAP will assign the ticket to another queue in their support system. There are separate queues/components based on the database type (SAP HANA, Sybase, MaxDB, etc), the operation system vendor and the hypervisor vendor like VMware.
+What if it's not clear where the cause of the problem is, VMware or the SAP layer? In this case you could open a ticket with SAP first. SAP will investigate the issue and if they conclude it is not SAP related,  SAP will assign the ticket to another queue in their support system. There are separate queues/components based on the database type (SAP HANA, Sybase, MaxDB, etc), the operation system vendor and the hypervisor vendor like VMware.
 
-As a SAP certified hypervisor vendor VMware has two support components inside of SAP’s support system. The two components are: **BC-OP-NT-ESX** for virtualized SAP on Linux and **BC-OP-LNX-ESX** for virtualized SAP on Windows. Now there is an additional support component monitored by VMware for the SAP Landscape Adapter (VLA) for LVM (Landscape Virtualization Manager) and LaMa (Landscape Manager) - BC-VCM-LVM-VMW.
+As an SAP certified hypervisor vendor VMware has two support components inside of SAP’s support system. The two components are: **BC-OP-NT-ESX** for virtualized SAP on Linux and **BC-OP-LNX-ESX** for virtualized SAP on Windows. Now there is an additional support component monitored by VMware for the SAP Landscape Adapter (VLA) for LVM (Landscape Virtualization Manager) and LaMa (Landscape Manager) - BC-VCM-LVM-VMW.
 
 ![BC-OP-$-ESX]({{ site.url }}/images/bc-op-*-esx.jpg)
 *Disclaimer: Picture by sap.com*

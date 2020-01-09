@@ -1,5 +1,5 @@
 ---
-title: Tailored Datacentre Integration (TDI)
+title: Tailored Data Center Integration (TDI)
 excerpt: "TDI vs Appliance Model"
 header:
   teaser: ""
@@ -14,7 +14,7 @@ This appliance models are designed, configured and supported by the different se
 
 This appliance model has pros and cons about the flexibility. Here is an example: Think of a scenario with the server from your preferred server vendor including the storage from your preferred storage vendor and so on. Now, what is the scenario if the customer has already an SAP HANA certified storage system?
 
-For this kind of customer requests, SAP defined the SAP HANA Tailored Datacentre Integration (TDI) model. This model is created to give customers more “freedom” to use existing environment components. But how to ensure the “promised” performance in a non-Appliance approach?
+For this kind of customer requests, SAP defined the SAP HANA Tailored Data Center Integration (TDI) model. This model is created to give customers more “freedom” to use existing environment components. But how to ensure the “promised” performance in a non-Appliance approach?
 
 In a TDI model, the customers need to look after the performance of IOPS. To help the customer, SAP provides a tool called “HWCCT” to benchmark the IOPS performance of the infrastructure landscape. This tool should also be used in a virtualized environment. Particularly in production environment. In a virtualized Multi-VM environment in production the customer needs to run the tools at the same time in each of the virtual machines on the same physical server.
 
