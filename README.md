@@ -1,1 +1,1 @@
-Using GitHub Pages (pages.github.com) to host the blog (saponvmware.com) and running by Jekyll and Minimal Mistakes.
+Using GitHub Pages to host this blog and running by Jekyll and Minimal Mistakes.
