@@ -41,4 +41,4 @@ Some server has additional features like hardware partitioning (e.g. Fujitsu, Hi
 
 In addition to the above checks as always work with your preferred server vendor, SAP and VMware.
 
-*Tags: SAP, VMware, SAP HANA*
+*Tags: SAP, SAP HANA, VMware*
