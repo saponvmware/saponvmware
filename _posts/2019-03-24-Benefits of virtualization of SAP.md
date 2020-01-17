@@ -1,10 +1,10 @@
 ---
-title: Benefits of virtualization of SAP 
+title: Benefits of virtualization of SAP
 excerpt: "What are the benefits of running SAP on VMware"
 header:
   teaser: ""
 category: [Blog]
-tags: [SAP, VMware, SAP HANA]
+tags: [SAP, SAP HANA, VMware]
 ---
 
 I was asked more than one time what the befits of running SAP and SAP HANA in a virtualized environment are. And the most valid arguments are High Availability, Lower Total Cost of Ownership, Faster Time to Value, and Security and Compliance.
