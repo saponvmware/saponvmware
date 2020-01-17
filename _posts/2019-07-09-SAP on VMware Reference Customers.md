@@ -16,7 +16,7 @@ More and more customer asking for references about SAP and SAP HANA on VMware. T
 
 * AMG showcases SAP HANA adoption and virtualization with VMware
 
-###### [https://www.youtube.com/watch?v=vnRq2Uam2EM](https://www.youtube.com/watch?v=vnRq2Uam2EM) ######
+##### [https://www.youtube.com/watch?v=vnRq2Uam2EM](https://www.youtube.com/watch?v=vnRq2Uam2EM) #####
 
 * Fujitsu benefits by virtualizing productive SAP landscapes
 
