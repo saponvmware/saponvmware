@@ -16,7 +16,7 @@ More and more customer asking for references about SAP and SAP HANA on VMware. T
 
 * AMG showcases SAP HANA adoption and virtualization with VMware
 
-[https://www.youtube.com/watch?v=vnRq2Uam2EM](https://www.youtube.com/watch?v=vnRq2Uam2EM)
+###### [https://www.youtube.com/watch?v=vnRq2Uam2EM](https://www.youtube.com/watch?v=vnRq2Uam2EM) ######
 
 * Fujitsu benefits by virtualizing productive SAP landscapes
 
@@ -56,7 +56,7 @@ More and more customer asking for references about SAP and SAP HANA on VMware. T
 
 [https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/customers/vmw-tcc-tech-casestudy-en.pdf](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/customers/vmw-tcc-tech-casestudy-en.pdf)
 
-* Statements about “Industry Support for SAP HANA” on vmware.com:
+Statements about “Industry Support for SAP HANA” on vmware.com:
 
 [https://www.vmware.com/latam/company/news/releases/vmw-sap-hana-partners-050614.html](https://www.vmware.com/latam/company/news/releases/vmw-sap-hana-partners-050614.html)
 
