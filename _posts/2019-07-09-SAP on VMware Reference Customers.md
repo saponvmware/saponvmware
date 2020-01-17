@@ -20,11 +20,11 @@ More and more customer asking for references about SAP and SAP HANA on VMware. T
 
 * Fujitsu benefits by virtualizing productive SAP landscapes
 
-[https://www.youtube.com/watch?v=1AoxkYXwNFA](https://www.youtube.com/watch?v=1AoxkYXwNFA)
+... [https://www.youtube.com/watch?v=1AoxkYXwNFA](https://www.youtube.com/watch?v=1AoxkYXwNFA)
 
 * EMC IT: Virtualizing SAP HANA for Production Use on VMware
 
-[https://www.youtube.com/watch?v=z_bZf0pjYk8](https://www.youtube.com/watch?v=z_bZf0pjYk8)
+.. [https://www.youtube.com/watch?v=z_bZf0pjYk8](https://www.youtube.com/watch?v=z_bZf0pjYk8)
 
 **References on vmware.com:**
 
