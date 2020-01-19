@@ -18,7 +18,7 @@ The limit is by the server vendors, CPU & Memory architecture and SAP HANA hardw
 
 In a scale-out architecture, the SAP HANA database is “partitioned” over different servers. This cluster of SAP HANA systems represent the SAP HANA database itself. In a scale-out architecture, the data is distributed over the different nodes of the SAP HANA system. A scale-out environment requires a “inter-node network” for the communication between the different nodes.
 
-![Scale-up vs Scale-out]({{ site.url }}/images/scale-up-vs-scaleout.jpg)
+![Scale-up vs Scale-out]({{ site.url }}/images/scaleup-vs-scaleout.jpg)
 *Disclaimer: Picture by saphana.com*
 
 **Go scale-up or scale out?**
