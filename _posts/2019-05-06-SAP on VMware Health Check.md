@@ -16,7 +16,7 @@ Typically, a Health Check reviews and analyzes the current architecture design i
 * Evaluating and validating
 * Documenting and remediating
 
-Information sources:
+**Information sources:**
 
 **Sizing**
 * SAP Quick Sizer
@@ -60,7 +60,7 @@ Information sources:
 * Provisioning
 * Over Commitment
 
-Disaster Recovery Design
+**Disaster Recovery Design**
 * Disaster Recovery architecture
 * RPO and RTO requirements
 
