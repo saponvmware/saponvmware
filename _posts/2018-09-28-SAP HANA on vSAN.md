@@ -11,7 +11,7 @@ At the SAPPHIRE in Orlando SAP introduced the Hyper-Coverage (HCI) for SAP HANA 
 
 In the past SAP certified enterprise storage - which is also listed on the SAP HANA Hardware Directory. But in the case of Software Defined Storage (SDS), SAP decided to certify “complete” solutions including the server hardware itself of different hardware vendors. This means an HCI certified SAP HANA solution is always based on a server vendor and is reflected in the SAP HANA Hardware Directory itself.
 
-On the SAP HANA Hardware Directory under the section ["Certified HCI Solutions"](https://www.sap.com/dmc/exp/2014-09-02-hana-hardware/enEN/hci.html) you will find different server vendors certified together with a certified SDS solution like vSAN - therefore the correct term is SAP HANA Certified for HCI powered by vSAN.
+On the SAP HANA Hardware Directory under the section ["Certified HCI Solutions"](https://www.sap.com/dmc/exp/2014-09-02-hana-hardware/enEN/hci.html#categories=certified%23VMware%20vSAN) you will find different server vendors certified together with a certified SDS solution like vSAN - therefore the correct term is SAP HANA Certified for HCI powered by vSAN.
 
 This means, you get no support by SAP or even VMware if you are running SAP HANA in production on a vSAN Ready Node or hardware components are listed on VMware HCL for vSAN. In a nutshell, it is always a partner solution like the Dell EMC VxRail, the first certified HCI solution based on VMware vSAN.
 
