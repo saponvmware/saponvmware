@@ -1,6 +1,6 @@
 ---
 title: Enhanced Monitoring
-excerpt: "IEnable Enhanced SAP System Monitoring"
+excerpt: "Enable Enhanced SAP System Monitoring"
 header:
   teaser: ""
 category: [Blog]
