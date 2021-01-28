@@ -20,7 +20,7 @@ The prerequisite of an SAP system is the SAP Host Agent - in the past the SAPOSC
 
 By default, the VMware Guest SDK running inside the virtual machine provides the related data to related to configuration and resources of the virtual machine. To provide the full set of virtualization data, two advance parameters on the virtualization host and virtual machine needs to be configured.
 
-nable *Misc.GuestLibAllowHostInfo = "1"* on the host to provide the hypervisor data to the virtual machine.
+Enable *Misc.GuestLibAllowHostInfo = "1"* on the host to provide the hypervisor data to the virtual machine.
 
 Enable *tools.guestlib.enableHostInfo = "TRUE"* on the virtual machine to receive hypervisor data from virtualization host.
 
