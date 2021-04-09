@@ -7,7 +7,7 @@ category: [Blog]
 tags: [SAP, SAP HANA, VMware, Architecture]
 ---
 
-Health Checks are not unusual in a VMware vSphere environment, but what need to cover in addition for a SAP on VMware Health Check?
+Health Checks are not unusual in a VMware vSphere environment, but what need to cover in addition for an SAP on VMware Health Check?
 
 Typically, a Health Check reviews and analyzes the current architecture design in conjunction of VMware’s Best Practices and recommendations. In addition to this best practices and recommendation SAP and VMware defined an additional set of recommendation and requirement for the support of SAP and SAP (HANA) on VMware. Those documented in a related SAP Notes (SAP user required) and in the Best Practice documents provided by VMware.
 
@@ -32,7 +32,7 @@ Typically, a Health Check reviews and analyzes the current architecture design i
 * Compute, Storage and Network requirements
 * High Availability and Disaster Recovery requirements
 * Production and non-production deployments
-* On-Premise, Off-Premise or Hybrid requirements
+* On-Premises, Off-Premises or Hybrid requirements
 
 **Virtual Machine**
 * VMware Tools versions
@@ -59,10 +59,6 @@ Typically, a Health Check reviews and analyzes the current architecture design i
 * Configuration of Resource Pools
 * Provisioning
 * Over Commitment
-
-**Disaster Recovery Design**
-* Disaster Recovery architecture
-* RPO and RTO requirements
 
 **Disaster Recovery Design**
 * Disaster Recovery architecture

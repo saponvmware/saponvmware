@@ -23,7 +23,7 @@ In a scale-out architecture, the SAP HANA database is “partitioned” over dif
 
 **Go scale-up or scale out?**
 
-From this point of view - go scale-up, as long you could go scale-up - may this advice might change in future.
+From this point of view - go scale-up, as long you could go scale-up - this advice might change in future.
 The deployment type of scale-up has same benefits against scale-out. The performance is invariable better as access of local memory is always faster as memory access across network. The Total Cost of Ownership (TCO) could be lower as the “simplified” single deployment of server, storage and network including connectivity, updating and monitoring. But there are systems out in the field which simple doesn’t fits in a single server, as the memory footprint is too large for scale-up systems
 
 Of course, decision about scale-up or scale-out is in the most cases driven by the business requirements. This is on one site the deployed application like S/4 HANA or BW/4 HANA and on the other side a cost accepted decision, which deployment type is maybe more efficacy. In any cases the SAP support statement is decisive.

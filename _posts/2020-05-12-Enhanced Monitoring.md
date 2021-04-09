@@ -16,7 +16,7 @@ After the setup of the enhanced SAP system monitoring read access on performance
 ![Space Center]({{ site.url }}/images/spacecenter.jpg)
 *Disclaimer: Picture by pixabay.com*
 
-The prerequisite of an SAP system is the SAP Host Agent - in the past the SAPOSCOL service was used for the enhanced monitoring - therefore check and update the version of the “SAP Host Agent”. The minimum SAP Host Agent required version of the SAP release is 7.21. For vSphere as Hypervisor patch level required version 05 - for Windows Server 2016 as guest operating system patch level version 24. Check the version by execute the operating commando *saphostexec -version*. Besides the requirement of the SAP Host Agent, installed VMware Tools including the VMware Guest SDK is also required. 
+The prerequisite of an SAP system is the SAP Host Agent - in the past the SAPOSCOL service was used for the enhanced monitoring - therefore check and update the version of the “SAP Host Agent”. The minimum SAP Host Agent required version of the SAP release is 7.21. For vSphere as Hypervisor patch level required version 05 - for Windows Server 2016 as guest operating system patch level version 24. Check the version by execute the operating commando *saphostexec -version*. Besides the requirement of the SAP Host Agent, installed VMware Tools including the VMware Guest SDK is also required.
 
 By default, the VMware Guest SDK running inside the virtual machine provides the related data to related to configuration and resources of the virtual machine. To provide the full set of virtualization data, two advance parameters on the virtualization host and virtual machine needs to be configured.
 
@@ -24,6 +24,6 @@ Enable *Misc.GuestLibAllowHostInfo = "1"* on the host to provide the hypervisor 
 
 Enable *tools.guestlib.enableHostInfo = "TRUE"* on the virtual machine to receive hypervisor data from virtualization host.
 
-With the commands *saposcol.exe -d* on Windows and */usr/sap/hostctrl/exe/saposcol -d* on Linux on the specific virtual machine, you could get also the virtualization data.
+With the commands *saposcol.exe -d* on Windows and with */usr/sap/hostctrl/exe/saposcol -d* on Linux on the specific virtual machine, you could get also the virtualization data.
 
 *Tags: VMware, vSphere, Monitoring*

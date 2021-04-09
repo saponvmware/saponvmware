@@ -7,7 +7,7 @@ category: [Blog]
 tags: [Reference, SAP, SAP HANA, VMware]
 ---
 
-More and more customer asking for references about SAP and SAP HANA on VMware. There a lot of customer who successful deployed SAP and SAP HANA on VMware, and this blog gives you a brief overview of official reference customers.
+More and more customer asking for references about SAP and SAP HANA on VMware. There is a lot of customer who successful deployed SAP and SAP HANA on VMware, and this blog gives you a brief overview of official reference customers.
 
 ![CUSTOMER]({{ site.url }}/images/customer.jpg)
 *Disclaimer: Picture by pixabay.com*
