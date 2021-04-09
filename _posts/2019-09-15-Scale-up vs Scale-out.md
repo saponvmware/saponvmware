@@ -1,6 +1,6 @@
 ---
 title: Scale-up vs Scale-out
-excerpt: "What is the difference between SAP HANA Scale-up and Scale-out"
+excerpt: "What is the difference between SAP HANA Scale-up and Scale-out?"
 header:
   teaser: ""
 category: [Blog]

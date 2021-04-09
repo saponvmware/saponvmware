@@ -1,6 +1,6 @@
 ---
 title: Benefits of virtualization of SAP
-excerpt: "What are the benefits of running SAP on VMware"
+excerpt: "What are the benefits of running SAP on VMware?"
 header:
   teaser: ""
 category: [Blog]
