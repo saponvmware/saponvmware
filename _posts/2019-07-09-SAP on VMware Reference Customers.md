@@ -37,12 +37,6 @@ More and more customer asking for references about SAP and SAP HANA on VMware. T
 * Endress+Hauser InfoServe
 [https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/customers/vmware-endress-hauser-casestudy.pdf](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/customers/vmware-endress-hauser-casestudy.pdf)
 
-* Infosys  
-[https://www.vmware.com/files/pdf/customers/vmware-infosys-15q2-en-cs.pdf](https://www.vmware.com/files/pdf/customers/vmware-infosys-15q2-en-cs.pdf)
-
-* Fujitsu TDS  
-[https://www.vmware.com/files/de/pdf/customers/VMware-Fujitsu-TDS-14Q4-CaseStudy.pdf](https://www.vmware.com/files/de/pdf/customers/VMware-Fujitsu-TDS-14Q4-CaseStudy.pdf)
-
 * TCC Technology  
 [https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/customers/vmw-tcc-tech-casestudy-en.pdf](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/customers/vmw-tcc-tech-casestudy-en.pdf)
 
