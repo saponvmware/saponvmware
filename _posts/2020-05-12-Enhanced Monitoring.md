@@ -7,7 +7,7 @@ category: [Blog]
 tags: [VMware, vSphere, Monitoring]
 ---
 
-For the operation a virtualized SAP system on Windows, Linux or Cloud environment, therefore SAP requires the setup of the enhanced SAP system monitoring. The reason for this requirement is, that in physical environments all recourses are assigned to the operating system. In a virtualized environment the underlaying resources are shared of one or more virtualized operating systems.
+For the operation a virtualized SAP system on Windows, Linux or Cloud environment SAP requires the setup of the enhanced SAP system monitoring. The reason for this requirement is, that in physical environments all recourses are assigned to the operating system. In a virtualized environment the underlaying resources are shared of one or more virtualized operating systems.
 
 In resources constrained situations the SAP basis administrator benefits of the important information about the underlaying physical resources available to the different virtualized systems. Therefore, the setup of the enhanced SAP monitoring is mandatory by SAP of virtualized Windows and Linux systems, this is also required for SAP systems in a cloud environment.
 
