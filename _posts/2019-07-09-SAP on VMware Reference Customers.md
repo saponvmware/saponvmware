@@ -32,7 +32,7 @@ More and more customer asking for references about SAP and SAP HANA on VMware. T
 [https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/company/vmw-bharathi-cement-online.pdf](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/company/vmw-bharathi-cement-online.pdf)
 
 * DellEMC  
-[https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/customers/VMware-DellEMC-16Q4-vRealize-CS-Fnl2.pdf](ttps://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/customers/VMware-DellEMC-16Q4-vRealize-CS-Fnl2.pdf)
+[https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/customers/VMware-DellEMC-16Q4-vRealize-CS-Fnl2.pdf](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/customers/VMware-DellEMC-16Q4-vRealize-CS-Fnl2.pdf)
 
 * Endress+Hauser InfoServe
 [https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/customers/vmware-endress-hauser-casestudy.pdf](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/customers/vmware-endress-hauser-casestudy.pdf)
