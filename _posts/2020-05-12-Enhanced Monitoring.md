@@ -11,7 +11,7 @@ For the operation a virtualized SAP system on Windows, Linux or Cloud environmen
 
 In resources constrained situations the SAP basis administrator benefits of the important information about the underlaying physical resources available to the different virtualized systems. Therefore, the setup of the enhanced SAP monitoring is mandatory by SAP of virtualized Windows and Linux systems, this is also required for SAP systems in a cloud environment.
 
-After the setup of the enhanced SAP system monitoring read access on performance metrics and specified configuration of the hypervisor and virtual machines are provided in the SAP system itself or in the SAP Solution Manager. This information is essential for the SAP support and for performance analysis of the virtualized SAP systems. The metrics are displayed in the ABAP transaction ST06, OS07 or OS07N, depends on the NetWeaver release, of each configured SAP system.
+After the setup of the enhanced SAP system monitoring read access on performance metrics and specified configuration of the hypervisor and virtual machines are provided in the SAP system itself or in the SAP Solution Manager. This information is essential for the SAP support and for performance analysis of the virtualized SAP systems. The metrics are displayed in the ABAP transaction(s) ST06, OS07 or OS07N, depends on the NetWeaver release, of each configured SAP system.
 
 ![Space Center]({{ site.url }}/images/spacecenter.jpg)
 *Disclaimer: Picture by pixabay.com*
