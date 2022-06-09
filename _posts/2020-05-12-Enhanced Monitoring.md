@@ -30,6 +30,6 @@ For more information please refer to the following SAP Notes:
 
 [SAP Note: 1606643 - Linux: VMware vSphere host monitoring interface](https://launchpad.support.sap.com/#/notes/1606643)
 
-[SAP Note: 1409604 - Virtuaization on Windows: Enhanced monitoring](https://launchpad.support.sap.com/#/notes/1409604)
+[SAP Note: 1409604 - Virtualization on Windows: Enhanced monitoring](https://launchpad.support.sap.com/#/notes/1409604)
 
 *Tags: VMware, vSphere, Monitoring*
